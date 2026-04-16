@@ -26,9 +26,13 @@ Para ello, se han utilizado dos datasets distintos que han sido limpiados, trans
 
 ## Estructura del proyecto
 ├── data/
-│   ├── raw/                
-│   ├── processed/          
-    ├── notebooks/              
+
+│   ├── raw/ 
+
+│   ├── processed/ 
+
+│   ├── notebooks/  
+
 ├── dashboard/              
 
 ---
