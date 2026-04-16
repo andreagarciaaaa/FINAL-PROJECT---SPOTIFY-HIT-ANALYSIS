@@ -33,7 +33,9 @@ Para ello, se han utilizado dos datasets distintos que han sido limpiados, trans
 
 │   ├── notebooks/  
 
-├── dashboard/              
+├── dashboard/  
+
+├── README.md/ 
 
 ---
 
